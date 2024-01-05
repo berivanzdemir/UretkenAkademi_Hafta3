@@ -1,0 +1,33 @@
+.containar{
+    margin-top: 20px;
+ 
+}
+
+.mb-3{
+    justify-content: center;
+    max-width: 50%;
+    margin-left:25%;
+    
+
+.formlabel{
+    margin-top: 10px;
+}
+
+}
+.box{
+    margin: 30px;
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin: 30px; 
+}
+
+
+
+.table thead tr {
+    background-color: #e9ada3; 
+    padding: 50px;/* Tek satırların arka plan rengi */
+  }
+  
